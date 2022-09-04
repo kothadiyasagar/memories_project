@@ -5,8 +5,7 @@ const Posts = () => {
   const classes  = useStyles()
   return (
     <>
-    <div>Posts</div>
-    <Post/>
+   
     </>
   )
 }

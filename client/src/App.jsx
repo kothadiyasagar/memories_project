@@ -1,13 +1,22 @@
-import React,{useState} from "react";
+
+import React, { useState, useEffect } from 'react';
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
 import { useDispatch } from 'react-redux';
 import Posts from './components/Posts/Posts';
-import {Form} from './components/Form/Form';
+import Form from './components/Form/Form';
 import useStyles from "./styles"
+import { getPosts } from './actions/posts';
 
-const App =()=>{
-    const [currentId, setCurrentId] = useState(0);
-    const classes  = useStyles()
+// import memories from './images/memories.png';
+
+const App = () => {
+  const [currentId, setCurrentId] = useState(0);
+  const dispatch = useDispatch();
+  const classes = useStyles();
+
+  useEffect(() => {
+    dispatch(getPosts());
+  }, [currentId, dispatch]);
 
     return (
         <>

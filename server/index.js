@@ -9,7 +9,7 @@ const app = express()
 app.use(bodyParser.json({limit:"30mp",extended:true}))
 app.use(bodyParser.urlencoded({limit:"30mp",extended:true}))
 app.use(cors())
-const CONNECTION_URL = "mongodb+srv://sagar:sagar123@cluster0.dn7hj5y.mongodb.net/memoriesSocial_App?retryWrites=true&w=majority"
+
 app.use('/posts', postRoutes)
 const PORT = process.env.PORT|| 5000;
 
