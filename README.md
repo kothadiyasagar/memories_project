@@ -53,6 +53,11 @@
 ![Pagination](./client/src/memoriesPage_imge/pagination.png)
 
 
- **Recomment Page**
+**Posts-Details Page**
+
+![Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
+
+
+ **RecommendedPosts Page**
 
 ![Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
