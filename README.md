@@ -2,6 +2,10 @@
 
  it is a simple social media app that allows users to post interesting events that happened in their lives.
 
+ ## Deployed Site
+
+[Memories_social_Media_App](https://memories-social-mediaapp.netlify.app)
+
  ## Features
 
 - Login with Email (JWT) + Google OAuth Authentication
@@ -22,17 +26,24 @@
 - Material Ui
 
  **Memories Page**
+
+
 ![Memories Page](./client/src/memoriesPage_imge/homePage.png)
 
  **Sign up Page**
 
+
 ![sinup Page](./client/src/memoriesPage_imge/sinupPage.png)
+
 
  **Sign In Page**
 
+
 ![sign Page](./client/src/memoriesPage_imge/signpage.png)
 
+
  **Login With Google**
+
 
 ![Login With Google](./client/src/memoriesPage_imge/loginWith_google.png)
 
@@ -43,4 +54,5 @@
 
 
  **Recomment Page**
+
 ![Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
