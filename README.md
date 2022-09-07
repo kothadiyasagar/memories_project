@@ -21,10 +21,26 @@
 
 - Material Ui
 
-### Home page
-.[Home Page](./client/src/memoriesPage_imge/homePage.png)
-.[sinup Page](./client/src/memoriesPage_imge/sinupPage.png)
-.[sign Page](./client/src/memoriesPage_imge/signpage.png)
-.[Login With Google](./client/src/memoriesPage_imge/loginWith_google.png)
-.[Pagination](./client/src/memoriesPage_imge/pagination.png)
-.[Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
+ **Memories Page**
+![Memories Page](./client/src/memoriesPage_imge/homePage.png)
+
+ **Sign up Page**
+
+![sinup Page](./client/src/memoriesPage_imge/sinupPage.png)
+
+ **Sign In Page**
+
+![sign Page](./client/src/memoriesPage_imge/signpage.png)
+
+ **Login With Google**
+
+![Login With Google](./client/src/memoriesPage_imge/loginWith_google.png)
+
+
+ **Pagination**
+
+![Pagination](./client/src/memoriesPage_imge/pagination.png)
+
+
+ **Recomment Page**
+![Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
