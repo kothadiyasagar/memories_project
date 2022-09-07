@@ -20,3 +20,11 @@
 ### Libraries Used
 
 - Material Ui
+
+### Home page
+.[Home Page](./client/src/memoriesPage_imge/homePage.png)
+.[sinup Page](./client/src/memoriesPage_imge/sinupPage.png)
+.[sign Page](./client/src/memoriesPage_imge/signpage.png)
+.[Login With Google](./client/src/memoriesPage_imge/loginWith_google.png)
+.[Pagination](./client/src/memoriesPage_imge/pagination.png)
+.[Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
