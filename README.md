@@ -55,7 +55,7 @@
 
 **Posts-Details Page**
 
-![Recomment Page](./client/src/memoriesPage_imge/recomentedoage.png)
+![Recomment Page](./client/src/memoriesPage_imge/detalies.page.png)
 
 
  **RecommendedPosts Page**
